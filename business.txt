@@ -1,0 +1,6 @@
+- Todos los usuarios son válidos; no se implementa un módulo de autenticación.
+- No se manejan sesiones ni control de acceso.
+- Redis es utilizado como base de datos en memoria para almacenamiento rápido y eficiente.
+- El diseño está optimizado para lecturas, asegurando disponibilidad y velocidad.
+- La arquitectura separa las bases de datos entre producción y pruebas para evitar conflictos y garantizar un entorno limpio para los tests.
+- Cada tweet tiene un límite máximo de 280 caracteres.

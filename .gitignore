@@ -1,0 +1,23 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos de compilación de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Reportes de cobertura
+.coverage
+*.coverage.*
+
+# Archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
