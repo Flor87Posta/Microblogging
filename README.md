@@ -94,6 +94,10 @@ docker-compose up --build
 
 Accede a la API en: http://localhost:8000.
 
+## Imagen de Docker
+La aplicación está dockerizada y disponible públicamente en Docker Hub:
+[Microblogging en Docker Hub](https://hub.docker.com/r/florpostacchini1011/microblogging)
+
 
 ## Endpoints Disponibles
 
